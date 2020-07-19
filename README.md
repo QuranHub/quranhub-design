@@ -1,2 +1,2 @@
-# quranhub-design
-QuranHub apps UI/UX &amp; graphic design stuff
+# QuranHub Design
+QuranHub apps UI/UX & graphic design stuff.
