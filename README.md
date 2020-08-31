@@ -1,3 +1,3 @@
 # QuranHub Design
 
-QuranHub apps UI/UX & graphic design resources & assets.
+QuranHub apps graphics resources & assets.
